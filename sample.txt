@@ -1,6 +1,5 @@
 1. These lines will be the same in both branches -- they might be unchanged
    or cleanly resolved.
-2. this line will be modified in both branches
-3. this will get deleted.
-4. this line will also be modified in both branches
+2. this line was edited in branch `them`.   There was a line 3, but it's been
+4. this line was also edited in `them`.     deleted in both branches
 5. This line will stay the same.
